@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "17.0.2",
     "react-native": "0.66.1",
-    "react-native-material-textfield": "^0.16.1",
+    "react-native-material-textfield": "https://github.com/Patrick-FRE/react-native-material-textfield.git",
     "react-native-radio-buttons": "^1.0.0",
     "react-native-ssh-sftp": "git://github.com/shaqian/react-native-ssh-sftp.git"
   },
